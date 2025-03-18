@@ -101,12 +101,9 @@ Shopmate
 7. **Responsive Design**:
    - Styled with CSS for a mobile-friendly layout.
 
-## Future Enhancements 🌟
-- ✅ Implement a **global state management system** using Redux.
-- ✅ Add **user authentication** (Login/Signup).
-- ✅ Introduce a **checkout process** with payment integration.
-- ✅ Enhance UI with **TailwindCSS or Material UI**.
-- ✅ Optimize API calls using **React Query**.
+## Demo.gif 🌟
+
+![Image](https://github.com/user-attachments/assets/9a928842-1dcc-4e48-9b59-2cdb8f9e366d)
 
 ## Contributing 🤝
 We welcome contributions! 🚀 If you’d like to contribute:
